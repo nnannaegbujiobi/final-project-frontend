@@ -1,5 +1,5 @@
 <template>
-  
+
   <div class="workouts-show">
     <div class="container">
       <!-- <h1>{{workout.id}}</h1> -->
